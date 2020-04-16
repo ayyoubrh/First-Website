@@ -1,0 +1,19 @@
+nav{
+    background-color: darkgreen;
+}
+
+.dada{
+    display: inline-flex;
+    float: right;
+    list-style-type: none;
+}
+.salah{
+height: 44px;
+}
+.dada li{
+    margin-right: 12px;
+    color: white;
+}
+body{
+    margin: 0;
+}
